@@ -1,6 +1,3 @@
-log-08-2022-10.log
-log-09-2023-10.log
-log-11-2020-10.log
-log-11-2020-10.log
+.class/
 *.log
-.idea/
+.bin/
